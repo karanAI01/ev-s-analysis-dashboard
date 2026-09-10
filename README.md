@@ -106,4 +106,4 @@ Year-wise EV analysis can help identify periods of increased EV adoption and cha
 CAFV eligibility analysis provides insight into how vehicles are classified under alternative-fuel eligibility criteria.
 
 ### 6.	Screenshots / Demos
-[Dashboard Preview]("https://github.com/karanAI01/EV-s-Analysis-Dashboard/blob/main/Home%20page%20.png")
+[Dashboard Preview](https://github.com/karanAI01/EV-s-Analysis-Dashboard/blob/main/Home%20page%20.png)
