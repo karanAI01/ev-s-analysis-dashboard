@@ -107,3 +107,6 @@ CAFV eligibility analysis provides insight into how vehicles are classified unde
 
 ### 6.	Screenshots / Demos
 ![Dashboard Preview](https://github.com/karanAI01/EV-s-Analysis-Dashboard/blob/main/Home%20page%20.png)
+![Dashboard Preview]()
+![Dashboard Preview]()
+![Dashboard Preview]()
