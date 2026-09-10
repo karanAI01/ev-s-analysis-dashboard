@@ -18,13 +18,13 @@ The dashboard is useful for data analysts, automobile companies, EV manufacturer
 ### 3.	Tech Stack
 The dashboard was developed using the following tools and technologies:
 
-📊 Power BI Desktop – Main platform used to build the interactive dashboard and visualizations.
-🔄 Power Query – Used for data cleaning, transformation, and preparation.
-🧠 DAX (Data Analysis Expressions) – Used to create calculated measures and analytical metrics.
-🗂️ Data Modeling – Used to organize the dataset into dimension and fact tables and establish relationships.
-📈 Power BI Visualizations – Cards, bar charts, column charts, donut charts, pie charts, area charts, scatter plots, and slicers.
-📁 Data Format – CSV-based source data imported into Power BI.
-💾 Power BI File Format – .pbit template for the project.
+- 📊 Power BI Desktop – Main platform used to build the interactive dashboard and visualizations.
+- 🔄 Power Query – Used for data cleaning, transformation, and preparation.
+- 🧠 DAX (Data Analysis Expressions) – Used to create calculated measures and analytical metrics.
+- 🗂️ Data Modeling – Used to organize the dataset into dimension and fact tables and establish relationships.
+- 📈 Power BI Visualizations – Cards, bar charts, column charts, donut charts, pie charts, area charts, scatter plots, and slicers.
+- 📁 Data Format – CSV-based source data imported into Power BI.
+- 💾 Power BI File Format – .pbit template for the project.
 
 ### 4.	Data Source
 The dataset used for this Electric Vehicles Analysis project was obtained from Kaggle, a widely used platform for datasets and data science projects.
