@@ -74,7 +74,7 @@ Allows users to interactively filter and explore the dataset.
 - Electric Range by Manufacturer – Compares EV performance based on average electric range.
 - Range vs MSRP Analysis – Helps identify the relationship between vehicle pricing and electric driving range.
 - CAFV Eligibility Analysis – Examines vehicle eligibility categories and their distribution across EV types.
-- Interactive Filters – Allow users to dynamically analyze the dashboard based on selected years, countries, EV types, and other available dimensions.
+- Interactive Filters – Allow users to dynamically analyze the dashboard based on selected years, countries, EV types and other available dimensions.
 
 •	Business Impact & Insights
 🚗 Market Analysis
