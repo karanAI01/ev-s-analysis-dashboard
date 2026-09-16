@@ -11,7 +11,7 @@ The dashboard transforms raw electric vehicle population data into meaningful vi
 ### 2.	Short Description / Purpose
 The Electric Vehicles Analysis Dashboard is an interactive Power BI report developed to explore and understand patterns in the electric vehicle market.
 
-It provides insights into EV adoption trends, vehicle types, leading manufacturers, popular models, pricing, electric range, and CAFV eligibility, allowing users to compare different segments of the EV market through interactive visualizations and filters.
+It provides insights into EV adoption trends, vehicle types, leading manufacturers, popular models, pricing, electric range, and CAFV eligibility, allowing users to compare different segments of the EV market through interactive visualizations.
 
 The dashboard is useful for data analysts, automobile companies, EV manufacturers, policymakers, researchers, and business decision-makers interested in understanding the electric vehicle landscape.
 
